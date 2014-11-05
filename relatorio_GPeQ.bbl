@@ -5,4 +5,17 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.2 }
 
+\bibitem[Costa 2005]{costa}
+\abntrefinfo{Costa}{COSTA}{2005}
+{COSTA, J.~C. \emph{A gestão da cadeia de suprimentos: teoria e prática}.
+  Porto Alegre, RS: XXV ENEGEP, 2005.}
+
+\bibitem[Filho 2009]{razzolini}
+\abntrefinfo{Filho}{FILHO}{2009}
+{FILHO, E.~R. \emph{Logística empresarial e cadeias de suprimentos}. 2009.}
+
+\bibitem[Slack 2009]{slack}
+\abntrefinfo{Slack}{SLACK}{2009}
+{SLACK, N. \emph{Administração da Produção}. São Paulo, SP: Atlas, 2009.}
+
 \end{thebibliography}
