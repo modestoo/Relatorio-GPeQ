@@ -1,40 +1,83 @@
 \changetocdepth {4}
 \select@language {brazil}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Resumo}}{2}{chapter.1}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{5}{chapter.1}
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{7}{chapter.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Informa\IeC {\c c}\IeC {\~o}es Gerais}}{6}{chapter.2}
-\contentsline {section}{\numberline {2.1}Integrantes do Grupo}{6}{section.2.1}
-\contentsline {section}{\numberline {2.2}Tema do Projeto}{6}{section.2.2}
-\contentsline {section}{\numberline {2.3}Ferramenta de Gest\IeC {\~a}o}{7}{section.2.3}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Informa\IeC {\c c}\IeC {\~o}es Gerais}}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Integrantes do Grupo}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Tema do Projeto}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Ferramenta de Gest\IeC {\~a}o}{10}{section.3.3}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Projeto de Processos}}{8}{chapter.3}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Dados do Processo QPeQ}}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}Defini\IeC {\c c}\IeC {\~a}o}{11}{section.4.1}
+\contentsline {section}{\numberline {4.2}Recursos Transformadores}{11}{section.4.2}
+\contentsline {section}{\numberline {4.3}Recursos Transformados}{12}{section.4.3}
+\contentsline {section}{\numberline {4.4}Estrat\IeC {\'e}gia da Produ\IeC {\c c}\IeC {\~a}o}{12}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Perspectiva Top-Down}{13}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Perspectiva Bottom-Up}{13}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Perspectiva das Exig\IeC {\^e}ncias do Mercado}{14}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Perspectiva dos Recursos de Opera\IeC {\c c}\IeC {\~a}o}{15}{subsection.4.4.4}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Projeto de Produtos e Servi\IeC {\c c}os}}{9}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Projeto de Processos}}{16}{chapter.5}
+\contentsline {section}{\numberline {5.1}Defini\IeC {\c c}\IeC {\~a}o}{16}{section.5.1}
+\contentsline {section}{\numberline {5.2}Processos em Manufatura}{17}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Processos de Projeto}{17}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Processos de Jobbing}{18}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Processos em Lotes ou Bateladas}{18}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Processos de Produ\IeC {\c c}\IeC {\~a}o em Massa}{18}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Processos de Produ\IeC {\c c}\IeC {\~a}o em Massa}{18}{subsection.5.2.5}
+\contentsline {section}{\numberline {5.3}Processos de Opera\IeC {\c c}\IeC {\~o}es de Servi\IeC {\c c}os}{18}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Servi\IeC {\c c}os Profissionais}{19}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Loja de Servi\IeC {\c c}os}{19}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Servi\IeC {\c c}os de Massa}{19}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Aplica\IeC {\c c}\IeC {\~o}es}{20}{section.5.4}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Cadeia de Suprimentos }}{10}{chapter.5}
-\contentsline {section}{\numberline {5.1}Defini\IeC {\c c}\IeC {\~a}o}{10}{section.5.1}
-\contentsline {section}{\numberline {5.2}Cadeia de Suprimentos aplicada nas redes de fast-food do Bob's}{11}{section.5.2}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Projeto de Produtos e Servi\IeC {\c c}os}}{21}{chapter.6}
+\contentsline {section}{\numberline {6.1}Defini\IeC {\c c}\IeC {\~a}o}{21}{section.6.1}
+\contentsline {section}{\numberline {6.2}Etapas do Projeto}{22}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Gera\IeC {\c c}\IeC {\~a}o do Conceito}{22}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Triagem}{22}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Projeto Preliminar}{23}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Avalia\IeC {\c c}\IeC {\~a}o e Melhoria}{23}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Prototipagem e Projeto Final}{23}{subsection.6.2.5}
+\contentsline {section}{\numberline {6.3}Aplica\IeC {\c c}\IeC {\~o}es}{24}{section.6.3}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Arranjo F\IeC {\'\i }sicos e Fluxo}}{12}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Cadeia de Suprimentos }}{26}{chapter.7}
+\contentsline {section}{\numberline {7.1}Defini\IeC {\c c}\IeC {\~a}o}{26}{section.7.1}
+\contentsline {section}{\numberline {7.2}Aplica\IeC {\c c}\IeC {\~o}es}{27}{section.7.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Tecnlogias de Processo}}{13}{chapter.7}
-\contentsline {section}{\numberline {7.1}Defini\IeC {\c c}\IeC {\~a}o}{13}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}Tecnologia de processamento de Materiais}{13}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}Tecnologia de processamento de Informa\IeC {\c c}\IeC {\~o}es}{13}{subsection.7.1.2}
-\contentsline {subsection}{\numberline {7.1.3}Tecnologia de processamento de Consumidores}{14}{subsection.7.1.3}
-\contentsline {section}{\numberline {7.2}Gerenciamento de opera\IeC {\c c}\IeC {\~o}es e tecnologia de processo}{14}{section.7.2}
-\contentsline {section}{\numberline {7.3}Tecnologia aplicada nas redes de fast-food do Bob's}{15}{section.7.3}
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Arranjo F\IeC {\'\i }sicos e Fluxo}}{31}{chapter.8}
+\contentsline {section}{\numberline {8.1}Defini\IeC {\c c}\IeC {\~a}o}{31}{section.8.1}
+\contentsline {section}{\numberline {8.2}Aplica\IeC {\c c}\IeC {\~o}es}{33}{section.8.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Projeto e Organiza\IeC {\c c}\IeC {\~a}o de Trabalho}}{16}{chapter.8}
+\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {Tecnlogias de Processo}}{36}{chapter.9}
+\contentsline {section}{\numberline {9.1}Defini\IeC {\c c}\IeC {\~a}o}{36}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Tecnologia de processamento de Materiais}{37}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Tecnologia de processamento de Informa\IeC {\c c}\IeC {\~o}es}{37}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.3}Tecnologia de processamento de Consumidores}{37}{subsection.9.1.3}
+\contentsline {section}{\numberline {9.2}Gerenciamento de opera\IeC {\c c}\IeC {\~o}es e tecnologia de processo}{38}{section.9.2}
+\contentsline {section}{\numberline {9.3}Aplica\IeC {\c c}\IeC {\~o}es}{40}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Tecnologia de Informa\IeC {\c c}\IeC {\~a}o e Consumidor}{40}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Reestrutura\IeC {\c c}\IeC {\~a}o}{41}{subsection.9.3.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {Melhorias Propostas}}{17}{chapter.9}
+\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase {Projeto e Organiza\IeC {\c c}\IeC {\~a}o de Trabalho}}{43}{chapter.10}
+\contentsline {section}{\numberline {10.1}Defini\IeC {\c c}\IeC {\~a}o}{43}{section.10.1}
+\contentsline {section}{\numberline {10.2}Aplica\IeC {\c c}\IeC {\~o}es}{44}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Divis\IeC {\~a}o de Trabalho}{45}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}Administra\IeC {\c c}\IeC {\~a}o Cient\IeC {\'\i }fica}{45}{subsection.10.2.2}
+\contentsline {subsection}{\numberline {10.2.3}Ergonomia}{45}{subsection.10.2.3}
+\contentsline {subsection}{\numberline {10.2.4}Abordagens Comportamentais e Empowerment}{46}{subsection.10.2.4}
+\contentsline {subsection}{\numberline {10.2.5}Trabalho em Equipe e Trabalho Flex\IeC {\'\i }vel}{46}{subsection.10.2.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase {Considera\IeC {\c c}\IeC {\~o}es}}{18}{chapter.10}
+\contentsline {chapter}{\chapternumberline {11}\MakeTextUppercase {Melhorias Propostas}}{47}{chapter.11}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {12}\MakeTextUppercase {Considera\IeC {\c c}\IeC {\~o}es}}{48}{chapter.12}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Refer\^encias}{19}{section*.3}
+\contentsline {chapter}{Refer\^encias}{49}{section*.3}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }

@@ -5,17 +5,90 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.2 }
 
+\bibitem[Chopra 2003]{chopra}
+\abntrefinfo{Chopra}{CHOPRA}{2003}
+{CHOPRA, P.~M. S. \emph{Gerenciamento da cadeia de suprimentos: estratégias,
+  planejamento e operação}. São Paulo, SP: Editora Person, 2003.}
+
+\bibitem[Christopher 2007]{martin}
+\abntrefinfo{Christopher}{CHRISTOPHER}{2007}
+{CHRISTOPHER, M. \emph{Logística e gerenciamento da cadeia de suprimentos:
+  criando redes que agregam valor}. São Paulo, SP: Thomson Learning, 2007.}
+
 \bibitem[Costa 2005]{costa}
 \abntrefinfo{Costa}{COSTA}{2005}
 {COSTA, J.~C. \emph{A gestão da cadeia de suprimentos: teoria e prática}.
   Porto Alegre, RS: XXV ENEGEP, 2005.}
 
-\bibitem[Filho 2009]{razzolini}
+\bibitem[Dale 1986]{dale}
+\abntrefinfo{Dale}{DALE}{1986}
+{DALE, B. \emph{What is computer integrated manufacturing?} [S.l.]:
+  International Journal of Operations and Production Management, 1986.}
+
+\bibitem[Detsi 2011]{detsi}
+\abntrefinfo{Detsi}{DETSI}{2011}
+{DETSI, A. \emph{Martin-Brower conquista logística do Bob’s}. Portal
+  Transporta Brasil, 2011.
+Dispon{\'\i}vel em:
+  \url{http://www.transportabrasil.com.br/2011/05/martin-brower-conquista-logistica-do-bobs/}.}
+
+\bibitem[Filho 2009]{filho}
 \abntrefinfo{Filho}{FILHO}{2009}
-{FILHO, E.~R. \emph{Logística empresarial e cadeias de suprimentos}. 2009.}
+{FILHO, E.~R. \emph{Logística empresarial e cadeias de suprimentos}. São
+  Paulo, SP: Editora IBPEX, 2009.}
+
+\bibitem[Finneston 1990]{sir}
+\abntrefinfo{Finneston}{FINNESTON}{1990}
+{FINNESTON, S.~M. \emph{Address to the Department of Education and Science
+  Conference}. 1990.}
+
+\bibitem[Junior 2013]{junior}
+\abntrefinfo{Junior}{JUNIOR}{2013}
+{JUNIOR, B. C.~H. \emph{Brazil Fast Food Corporation: Internacionalização da
+  Rede Bob’s}. Rio de Janeiro, RJ: Editora TAC, 2013.}
+
+\bibitem[Lamônica 2012]{lamonica}
+\abntrefinfo{Lamônica}{LAMôNICA}{2012}
+{LAMôNICA, J. \emph{O sabor de uma marca: Bob's 60 anos}. São Paulo, SP:
+  Editora Lamonica Comunicação Multicanal, 2012.}
+
+\bibitem[LECOM 2011]{lecom}
+\abntrefinfo{LECOM}{LECOM}{2011}
+{LECOM, S. \emph{Gestão de Processos, Tecnologia e Gestão da Qualidade Total
+  – Como e por que esta combinação transforma o cenário corporativo?}
+  Lecom S/A., 2011.
+Dispon{\'\i}vel em:
+  \url{http://www.lecom.com.br/lecom/upload/noticia/WhitePaperQualityLecom2011.pdf}.}
+
+\bibitem[MITI 2010]{miti}
+\abntrefinfo{MITI}{MITI}{2010}
+{MITI, I. \emph{Redes Fast Food}. São Paulo, SP: [s.n.], 2010.
+Dispon{\'\i}vel em: \url{http://pt.slideshare.net/FonteMITI/estudo-fastfood}.}
+
+\bibitem[Osman 2014]{osman}
+\abntrefinfo{Osman}{OSMAN}{2014}
+{OSMAN, R. \emph{O renascimento do Bob’s. Pequenas Empresas Grandes
+  Negócios.} São Paulo, SP: [s.n.], 2014.
+Dispon{\'\i}vel em:
+  \url{http://revistapegn.globo.com/Empresasenegocios/0,19125,ERA817081-2991-1,00.html}.}
+
+\bibitem[Pires 2004]{pires}
+\abntrefinfo{Pires}{PIRES}{2004}
+{PIRES, S. \emph{Gestão da cadeia de suprimentos: conceitos, estratégias,
+  práticas e casos}. São Paulo, SP: Editora Atlas, 2004.}
 
 \bibitem[Slack 2009]{slack}
 \abntrefinfo{Slack}{SLACK}{2009}
 {SLACK, N. \emph{Administração da Produção}. São Paulo, SP: Atlas, 2009.}
+
+\bibitem[Stevenson 2001]{stevenson}
+\abntrefinfo{Stevenson}{STEVENSON}{2001}
+{STEVENSON, W. \emph{Administração das operações de produção}. Rio de
+  Janeiro, RJ: Editora LTC, 2001.}
+
+\bibitem[Taylor 2005]{taylor}
+\abntrefinfo{Taylor}{TAYLOR}{2005}
+{TAYLOR, D. \emph{Logística na Cadeia de Suprimentos: uma perspectiva
+  gerencial}. São Paulo, SP: Pearson Addison-Wesley, 2005.}
 
 \end{thebibliography}
