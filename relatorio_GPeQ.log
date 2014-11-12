@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.2)  12 NOV 2014 09:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.2)  12 NOV 2014 11:37
 entering extended mode
 **relatorio_GPeQ.tex
 (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\relatorio_GPeQ.tex
@@ -1066,13 +1066,20 @@ l.14
 
 
 
-] (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/resumo.tex)
+] (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/resumo.tex
+<resource/bobs2.png, id=26, 31.61812pt x 11.29219pt>
+File: resource/bobs2.png Graphic file (type png)
+ <use resource/bobs2.png>
+Package pdftex.def Info: resource/bobs2.png used on input line 6.
+(pdftex.def)             Requested size: 31.61803pt x 11.29214pt.
+)
 (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\headers/indiceAutomatico.tex
 [2
 
 
-] (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\relatorio_GPeQ.toc
-[3] [4]) [5])
+ <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/bobs2.png>]
+(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\relatorio_GPeQ.toc [3]
+[4]) [5])
 (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\headers/listasAutomaticas.tex
 (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\relatorio_GPeQ.lof) [6
 
@@ -1080,7 +1087,11 @@ l.14
 (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\relatorio_GPeQ.lot) [7
 
 ])
-(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/versionamento.tex
+(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/abreviaturas.tex
+[8
+
+
+]) (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/versionamento.tex
 Underfull \hbox (badness 5036) in paragraph at lines 13--13
 []|\T1/lmr/m/n/12 Augusto Mo-desto e
  []
@@ -1096,7 +1107,7 @@ Underfull \hbox (badness 5036) in paragraph at lines 17--17
  []
 
 ) (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/cronograma.tex
-[8
+[9
 
 
 ]
@@ -1143,20 +1154,20 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 42.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 42.
-[9
+[10
 
 
-] [10])
+] [11])
 (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/introducao.tex
-[11
+[12
 
 
 ])
 (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/informacoesGerais.tex
-[12]
+[13]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 6.
- [13
+ [14
 
 ]
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 54.
@@ -1165,21 +1176,32 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 54.
- [14]
-<resource/trello.png, id=308, 1011.78pt x 482.55281pt>
+ [15]
+<resource/trello.png, id=320, 1011.78pt x 482.55281pt>
 File: resource/trello.png Graphic file (type png)
 
 <use resource/trello.png>
 Package pdftex.def Info: resource/trello.png used on input line 68.
 (pdftex.def)             Requested size: 708.24118pt x 337.78465pt.
- [15
+ [16
 
  <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/trello.png>])
-(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/dados.tex [16
+(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/dados.tex
+File: resource/bobs2.png Graphic file (type png)
+
+<use resource/bobs2.png>
+Package pdftex.def Info: resource/bobs2.png used on input line 20.
+(pdftex.def)             Requested size: 31.61803pt x 11.29214pt.
+ [17
 
 
 ]
-[17] <resource/dados1.png, id=323, 487.8225pt x 305.64188pt>
+File: resource/bobs2.png Graphic file (type png)
+ <use resource/bobs2.png>
+Package pdftex.def Info: resource/bobs2.png used on input line 38.
+(pdftex.def)             Requested size: 31.61803pt x 11.29214pt.
+ [18]
+<resource/dados1.png, id=336, 487.8225pt x 305.64188pt>
 File: resource/dados1.png Graphic file (type png)
 
 <use resource/dados1.png>
@@ -1187,16 +1209,16 @@ Package pdftex.def Info: resource/dados1.png used on input line 53.
 (pdftex.def)             Requested size: 292.69576pt x 183.38652pt.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 58.
- [18 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/dados1.png>]
-<resource/dados2.png, id=334, 618.05907pt x 383.93437pt>
+ [19 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/dados1.png>]
+<resource/dados2.png, id=346, 618.05907pt x 383.93437pt>
 File: resource/dados2.png Graphic file (type png)
 
 <use resource/dados2.png>
 Package pdftex.def Info: resource/dados2.png used on input line 82.
 (pdftex.def)             Requested size: 370.8383pt x 230.3624pt.
- [19 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/dados2.png>])
-(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/processos.tex [20]
-<resource/processo1.png, id=352, 230.36063pt x 222.07968pt>
+ [20 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/dados2.png>])
+(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/processos.tex [21]
+<resource/processo1.png, id=364, 230.36063pt x 222.07968pt>
 File: resource/processo1.png Graphic file (type png)
 
 <use resource/processo1.png>
@@ -1206,69 +1228,66 @@ Package pdftex.def Info: resource/processo1.png used on input line 26.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<resource/processo2.png, id=355, 379.4175pt x 289.83281pt>
+<resource/processo2.png, id=367, 379.4175pt x 289.83281pt>
 File: resource/processo2.png Graphic file (type png)
 
 <use resource/processo2.png>
 Package pdftex.def Info: resource/processo2.png used on input line 40.
 (pdftex.def)             Requested size: 341.47258pt x 260.8471pt.
- [21
+ [22
 
-] [22 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/processo1.png>
- <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/processo2.png>] [23
+] [23 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/processo1.png>
+ <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/processo2.png>] [24
 ]
-<resource/processo3.png, id=371, 368.1253pt x 273.27094pt>
+<resource/processo3.png, id=384, 368.1253pt x 273.27094pt>
 File: resource/processo3.png Graphic file (type png)
 
 <use resource/processo3.png>
 Package pdftex.def Info: resource/processo3.png used on input line 90.
 (pdftex.def)             Requested size: 331.30971pt x 245.94154pt.
-
-<resource/bobs2.png, id=372, 31.61812pt x 11.29219pt>
 File: resource/bobs2.png Graphic file (type png)
  <use resource/bobs2.png>
 Package pdftex.def Info: resource/bobs2.png used on input line 118.
 (pdftex.def)             Requested size: 31.61803pt x 11.29214pt.
-
-[24 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/processo3.png>])
-(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/produtos.tex [25 <C:/U
-sers/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/bobs2.png>]
-<resource/produto1.png, id=392, 392.96812pt x 149.05687pt>
+ [25 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/processo3.png>]
+)
+(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/produtos.tex [26]
+<resource/produto1.png, id=401, 392.96812pt x 149.05687pt>
 File: resource/produto1.png Graphic file (type png)
 
 <use resource/produto1.png>
 Package pdftex.def Info: resource/produto1.png used on input line 13.
 (pdftex.def)             Requested size: 314.37491pt x 119.24565pt.
- [26
+ [27
 
  <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/produto1.png>]
-<resource/produto2.png, id=400, 225.84375pt x 243.91125pt>
+<resource/produto2.png, id=409, 225.84375pt x 243.91125pt>
 File: resource/produto2.png Graphic file (type png)
 
 <use resource/produto2.png>
 Package pdftex.def Info: resource/produto2.png used on input line 35.
 (pdftex.def)             Requested size: 180.67523pt x 195.12926pt.
- [27 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/produto2.png>]
+ [28 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/produto2.png>]
 File: resource/bobs2.png Graphic file (type png)
  <use resource/bobs2.png>
 Package pdftex.def Info: resource/bobs2.png used on input line 70.
 (pdftex.def)             Requested size: 31.61803pt x 11.29214pt.
- [28] [29])
-(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/cadeia.tex [30]
-<resource/cadeia1.jpg, id=427, 401.5pt x 301.125pt>
+ [29] [30])
+(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/cadeia.tex [31]
+<resource/cadeia1.jpg, id=436, 401.5pt x 301.125pt>
 File: resource/cadeia1.jpg Graphic file (type jpg)
  <use resource/cadeia1.jpg>
 Package pdftex.def Info: resource/cadeia1.jpg used on input line 11.
 (pdftex.def)             Requested size: 321.20042pt x 240.90031pt.
 
-[31
+[32
 
  <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/cadeia1.jpg>]
 Underfull \hbox (badness 1681) in paragraph at lines 34--34
 []|\T1/lmr/m/n/12 Posição ho-ri-zon-tal da em-presa
  []
 
-<resource/cadeia2.png, id=440, 753.81625pt x 323.2075pt>
+<resource/cadeia2.png, id=449, 753.81625pt x 323.2075pt>
 File: resource/cadeia2.png Graphic file (type png)
 
 <use resource/cadeia2.png>
@@ -1278,62 +1297,62 @@ File: resource/bobs2.png Graphic file (type png)
  <use resource/bobs2.png>
 Package pdftex.def Info: resource/bobs2.png used on input line 49.
 (pdftex.def)             Requested size: 31.61803pt x 11.29214pt.
- [32 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/cadeia2.png>] [
-33]
-<resource/cadeia3.png, id=461, 702.625pt x 513.92pt>
+ [33 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/cadeia2.png>] [
+34]
+<resource/cadeia3.png, id=470, 702.625pt x 513.92pt>
 File: resource/cadeia3.png Graphic file (type png)
 
 <use resource/cadeia3.png>
 Package pdftex.def Info: resource/cadeia3.png used on input line 68.
 (pdftex.def)             Requested size: 421.57825pt x 308.35437pt.
- [34 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/cadeia3.png>]
-<resource/cadeia4.png, id=467, 426.84468pt x 164.86594pt>
+ [35 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/cadeia3.png>]
+<resource/cadeia4.png, id=476, 426.84468pt x 164.86594pt>
 File: resource/cadeia4.png Graphic file (type png)
 
 <use resource/cadeia4.png>
 Package pdftex.def Info: resource/cadeia4.png used on input line 80.
 (pdftex.def)             Requested size: 384.15666pt x 148.37794pt.
 )
-(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/arranjo.tex [35 <C:/Us
+(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/arranjo.tex [36 <C:/Us
 ers/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/cadeia4.png>]
-<resource/arranjo1.png, id=472, 514.17094pt x 289.83281pt>
+<resource/arranjo1.png, id=482, 514.17094pt x 289.83281pt>
 File: resource/arranjo1.png Graphic file (type png)
 
 <use resource/arranjo1.png>
 Package pdftex.def Info: resource/arranjo1.png used on input line 13.
 (pdftex.def)             Requested size: 411.33731pt x 231.86655pt.
- [36
+ [37
 
  <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/arranjo1.png>]
-<resource/arranjo2.png, id=485, 499.11469pt x 270.25969pt>
+<resource/arranjo2.png, id=494, 499.11469pt x 270.25969pt>
 File: resource/arranjo2.png Graphic file (type png)
 
 <use resource/arranjo2.png>
 Package pdftex.def Info: resource/arranjo2.png used on input line 32.
 (pdftex.def)             Requested size: 399.29228pt x 216.20804pt.
- [37 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/arranjo2.png>]
+ [38 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/arranjo2.png>]
 File: resource/bobs2.png Graphic file (type png)
  <use resource/bobs2.png>
 Package pdftex.def Info: resource/bobs2.png used on input line 43.
 (pdftex.def)             Requested size: 31.61803pt x 11.29214pt.
- [38]
-<resource/arranjo3.png, id=500, 489.32813pt x 341.77687pt>
+ [39]
+<resource/arranjo3.png, id=509, 489.32813pt x 341.77687pt>
 File: resource/arranjo3.png Graphic file (type png)
 
 <use resource/arranjo3.png>
 Package pdftex.def Info: resource/arranjo3.png used on input line 66.
 (pdftex.def)             Requested size: 391.46303pt x 273.42186pt.
 
-<resource/arranjo4.png, id=501, 237.13594pt x 191.21437pt>
+<resource/arranjo4.png, id=510, 237.13594pt x 191.21437pt>
 File: resource/arranjo4.png Graphic file (type png)
 
 <use resource/arranjo4.png>
 Package pdftex.def Info: resource/arranjo4.png used on input line 74.
 (pdftex.def)             Requested size: 165.994pt x 133.84914pt.
- [39 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/arranjo3.png> <
+ [40 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/arranjo3.png> <
 C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/arranjo4.png>])
 (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/tecnologias.tex
-[40] <resource/tec1.png, id=514, 571.38469pt x 359.84438pt>
+[41] <resource/tec1.png, id=523, 571.38469pt x 359.84438pt>
 File: resource/tec1.png Graphic file (type png)
 
 <use resource/tec1.png>
@@ -1344,10 +1363,10 @@ Overfull \hbox (2.10837pt too wide) in paragraph at lines 13--14
  [][] 
  []
 
-[41
+[42
 
  <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/tec1.png>]
-[42] [43] <resource/tec2.png, id=538, 432.86719pt x 496.85625pt>
+[43] [44] <resource/tec2.png, id=547, 432.86719pt x 496.85625pt>
 File: resource/tec2.png Graphic file (type png)
 
 <use resource/tec2.png>
@@ -1357,16 +1376,16 @@ File: resource/bobs2.png Graphic file (type png)
  <use resource/bobs2.png>
 Package pdftex.def Info: resource/bobs2.png used on input line 79.
 (pdftex.def)             Requested size: 31.61803pt x 11.29214pt.
- [44 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/tec2.png>] [45]
+ [45 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/tec2.png>] [46]
 
-<resource/tec3.png, id=553, 819.06pt x 438.8897pt>
+<resource/tec3.png, id=562, 819.06pt x 438.8897pt>
 File: resource/tec3.png Graphic file (type png)
  <use resource/tec3.png>
 Package pdftex.def Info: resource/tec3.png used on input line 111.
 (pdftex.def)             Requested size: 409.52899pt x 219.4443pt.
 
-[46 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/tec3.png>]
-<resource/tec4.png, id=564, 763.35187pt x 273.27094pt>
+[47 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/tec3.png>]
+<resource/tec4.png, id=573, 763.35187pt x 273.27094pt>
 File: resource/tec4.png Graphic file (type png)
  <use resource/tec4.png>
 Package pdftex.def Info: resource/tec4.png used on input line 125.
@@ -1377,17 +1396,17 @@ Overfull \hbox (3.01465pt too wide) in paragraph at lines 125--126
  []
 
 ) (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/organizacao.tex
-[47 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/tec4.png>]
-<resource/organizacao1.png, id=577, 678.28406pt x 307.1475pt>
+[48 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/tec4.png>]
+<resource/organizacao1.png, id=587, 678.28406pt x 307.1475pt>
 File: resource/organizacao1.png Graphic file (type png)
 
 <use resource/organizacao1.png>
 Package pdftex.def Info: resource/organizacao1.png used on input line 13.
 (pdftex.def)             Requested size: 406.97357pt x 184.28992pt.
- [48
+ [49
 
  <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/organizacao1.png>]
-<resource/organizacao2.png, id=588, 472.76625pt x 338.76563pt>
+<resource/organizacao2.png, id=597, 472.76625pt x 338.76563pt>
 File: resource/organizacao2.png Graphic file (type png)
 
 <use resource/organizacao2.png>
@@ -1397,16 +1416,16 @@ File: resource/bobs2.png Graphic file (type png)
  <use resource/bobs2.png>
 Package pdftex.def Info: resource/bobs2.png used on input line 37.
 (pdftex.def)             Requested size: 31.61803pt x 11.29214pt.
- [49 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/organizacao2.pn
-g>] [50])
-(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/melhorias.tex [51])
+ [50 <C:/Users/Augusto/Documents/GitHub/Relatorio-GPeQ/resource/organizacao2.pn
+g>] [51])
+(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/melhorias.tex [52])
 (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/consideracoes.tex
-[52
+[53
 
 ]) (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\relatorio_GPeQ.bbl
 (C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\relatorio_GPeQ.brf)
 \tf@brf=\write5
- [53
+ [54
 
 ]
 bibitemlist
@@ -1414,22 +1433,22 @@ bibitemlist
 
 LaTeX Warning: Citation `razzolini' undefined on input line 41.
 
-(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/anexos.tex [54
+(C:\Users\Augusto\Documents\GitHub\Relatorio-GPeQ\source/anexos.tex [55
 
 ]
-[55]
+[56]
 Overfull \hbox (3.5143pt too wide) in paragraph at lines 31--32
 []\T1/lmr/m/n/12 Eu, $[][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][]$, abaixo as-si-nado, con-cordo
  []
 
-[56
+[57
 
 ])
 No file relatorio_GPeQ.ind.
 
 AED: lastpage setting LastPage
-[57]
+[58]
 \tf@toc=\write6
 \tf@lof=\write7
 \tf@lot=\write8
@@ -1439,7 +1458,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 49.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 49.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 49.
 Package rerunfilecheck Info: File `relatorio_GPeQ.brf' has not changed.
-(rerunfilecheck)             Checksum: 9E2ED8E41A80FCDF41F98ED5386786DB;1711.
+(rerunfilecheck)             Checksum: D2BC4B83F15082BFA737386CBABA2F15;1749.
 
 
 LaTeX Warning: There were undefined references.
@@ -1450,10 +1469,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
  ) 
 Here is how much of TeX's memory you used:
- 12508 strings out of 493921
- 185094 string characters out of 3144870
- 309255 words of memory out of 3000000
- 15265 multiletter control sequences out of 15000+200000
+ 12518 strings out of 493921
+ 185344 string characters out of 3144870
+ 308337 words of memory out of 3000000
+ 15268 multiletter control sequences out of 15000+200000
  85656 words of font info for 55 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  41i,15n,41p,1290b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1474,9 +1493,9 @@ gram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files
 TeX 2.9/fonts/type1/public/lm/lmsso12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/public/lm/lmsso17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 public/lm/lmsy10.pfb>
-Output written on relatorio_GPeQ.pdf (58 pages, 2126781 bytes).
+Output written on relatorio_GPeQ.pdf (59 pages, 2130241 bytes).
 PDF statistics:
- 998 PDF objects out of 1000 (max. 8388607)
- 197 named destinations out of 1000 (max. 500000)
- 717 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1012 PDF objects out of 1200 (max. 8388607)
+ 201 named destinations out of 1000 (max. 500000)
+ 725 words of extra memory for PDF output out of 10000 (max. 10000000)
 
