@@ -80,13 +80,15 @@
 \contentsline {subsection}{\numberline {12.2.5}Trabalho em Equipe e Trabalho Flex\IeC {\'\i }vel}{52}{subsection.12.2.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {13}\MakeTextUppercase {Melhorias Propostas}}{53}{chapter.13}
+\contentsline {section}{\numberline {13.1}Defini\IeC {\c c}\IeC {\~a}o}{53}{section.13.1}
+\contentsline {section}{\numberline {13.2}Aplica\IeC {\c c}\IeC {\~o}es}{54}{section.13.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {14}\MakeTextUppercase {Considera\IeC {\c c}\IeC {\~o}es}}{54}{chapter.14}
+\contentsline {chapter}{\chapternumberline {14}\MakeTextUppercase {Considera\IeC {\c c}\IeC {\~o}es}}{56}{chapter.14}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Refer\^encias}{55}{section*.5}
+\contentsline {chapter}{Refer\^encias}{57}{section*.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {15}\MakeTextUppercase {Anexos}}{57}{chapter.15}
-\contentsline {section}{\numberline {15.1}Anexo A}{57}{section.15.1}
-\contentsline {section}{\numberline {15.2}Anexo B}{58}{section.15.2}
+\contentsline {chapter}{\chapternumberline {15}\MakeTextUppercase {Anexos}}{59}{chapter.15}
+\contentsline {section}{\numberline {15.1}Anexo A}{59}{section.15.1}
+\contentsline {section}{\numberline {15.2}Anexo B}{60}{section.15.2}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
